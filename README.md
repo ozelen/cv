@@ -1,6 +1,5 @@
 # Oleksiy Zelenyuk
 _Curriculum vitae_
-
 ### Software Architect
 
 Tel: +380503480098
@@ -63,23 +62,11 @@ Strong analytical skills and a systematic problem-solving approach ensure effici
 
 Making strategic decisions based on thoroughly evaluating complex issues considering different aspects, dimensions, and tradeoffs.
 
-### Critical Thinking
-
-Making strategic decisions based on thoroughly evaluating complex issues considering different aspects, dimensions, and tradeoffs.
-
-### Collaboration
-
-Track record of fostering a cooperative working environment and leveraging team strengths to achieve project goals.
-
-### Mentoring and Coaching
-
-Experienced in mentoring team members, nurturing their professional development, and growing future leaders within the organization.
-
 ## Hard Skills
 
-I've worked on a wide range of projects, from small startups to large-scale enterprise systems and each type of project requires different toolset.
+I've worked on a wide range of projects, from small startups to large-scale enterprise systems, and each type of project requires a different toolset.
 
-To avoid academic ivory tower discussions, I prefer to get my hands dirty and use the tools I'm talking about on real projects.
+To avoid academic ivory tower discussions, I prefer to get my hands dirty and use the tools I talk about on real projects.
 
 ### Methodologies and Practices I follow
 
@@ -139,7 +126,7 @@ _2022-2023_
 - GraphQL
 - AWS/Serverless
 
-CreatorIQ is a leading platform for Influencer marketing, providing B2B SaaS for brands and marketing agencies for making campaigns in digital marketing.
+CreatorIQ is a leading platform for Influencer marketing, providing B2B SaaS for brands and marketing agencies to make digital marketing campaigns.
 
 As Director of Architecture, I analyzed and documented functional and non-functional requirements, assessed the current state of architecture, influenced and mentored teams and grew team leaders, and improved and maintained project documentation. Worked on productizing external API and introduced new features like webhooks, GraphQL, etc.
 
@@ -159,7 +146,7 @@ _2021-2022_
 
 As an Engineering Manager, I led the backend and Infrastructure team. Conducted project assessment and tradeoff analysis. Planned and executed significant legacy migrations, security audit and implementation, performance issues discovery, and mitigation. Managed staffing engineers and managers. Handled people management.
 
-We successfully migrated from AWS Beanstalk to Kubernetes. We significantly increased the performance of application and database layers, which allowed the company to introduce new major features, such as audio rooms. And, as a result, raise a new round of investments.
+We successfully migrated from AWS Beanstalk to Kubernetes. We significantly increased the performance of application and database layers, which allowed the company to introduce new significant features, such as audio rooms. And, as a result, raise a new round of investments.
 
 ## Solutions Architect at Influencer.com
 
@@ -175,7 +162,7 @@ _2020-2021_
 - Postgres
 - React
 
-My first product company experience was with a beautiful, motivated team and a prominent CTO. We produced a new face of product in two web applications on React, took over and migrated legacy applications from the other team, and created GraphQL layer API. My team and I improved database, backend, and frontend performance. The team had been deeply involved in requirement gathering and writing user stories.
+My first product company experience was with a beautiful, motivated team and a prominent CTO. We produced a new face of product in two web applications on React, took over and migrated legacy applications from the other team, and created GraphQL layer API. My team and I improved database, backend, and frontend performance. The couple had been deeply involved in requirement gathering and writing user stories.
 
 ## Software Architect at SoftServe
 
@@ -189,9 +176,9 @@ _2017-2020_
 - Security Audit
 - Technical Leadership
 
-I joined SoftServe for the second time as an architect, but I studied how to do it right there. Thanks to the Architecture Rampup Program, which Software Engineering Institute, Carnegie Mellon University, led. I was involved in over a dozen projects in different business domains during this period and worked with many smart people in the “Centre of Excellence,” which was a specific department dedicated to presales, discovery, and the most complex problems other departments couldn’t solve, such as performance issues, high complexity, complex integrations, new and/or unfamiliar technologies, etc.
+I joined SoftServe for the second time as an architect but studied how to do it right there. Thanks to the Architecture Rampup Program led by the Software Engineering Institute, Carnegie Mellon University. I was involved in over a dozen projects in different business domains during this period and worked with many intelligent people in the “Centre of Excellence,” which was a specific department dedicated to presales, discovery, and the most complex problems other departments couldn’t solve, such as performance issues, high complexity, complex integrations, new and/or unfamiliar technologies, etc.
 
-I learned and am certified in key methodologies I use now, including Architectural Tradeoff Analysis, the core discipline of Software Architecture.
+I learned and am certified in critical methodologies I use now, including Architectural Tradeoff Analysis, the core discipline of Software Architecture.
 
 ## Application Architect at Eleks
 
@@ -204,7 +191,7 @@ _2017_
 - NodeJS
 - Neo4J
 
-The first time I called myself an architect was here, with little understanding of my next steps. So I had a chance to start doing things intuitively before and while I learned how to do them properly. During 9 months of this job, I got my first experience of project discovery by starting a project and a few presales in the meantime.
+The first time I called myself an architect was here, with little understanding of my next steps. So I had a chance to start doing things intuitively before and while I learned how to do them correctly. During nine months of this job, I got my first experience of project discovery by starting a project and a few presales in the meantime.
 
 ## Tech Lead at Symphony Solutions
 
@@ -217,7 +204,7 @@ _2015-2017_
 - NodeJS
 - Redis
 
-A fantastic experience on a sports betting project for a UK-based customer was the atmosphere of a product company for the first time for me, where the hosting company made this atmosphere even much better. Here was my dream team and my first experience as a full-stack developer and de-facto application architect, including React frontend, NodeJS backend, event-driven architecture, and scalable microservice infrastructure. We produced awesome animated widgets of sports visualization that were the greatest visual part of the sportsbook.
+A fantastic experience on a sports betting project for a UK-based customer was the atmosphere of a product company for the first time, where the hosting company made this atmosphere even much better. Here was my dream team and my first experience as a full-stack developer and de-facto application architect, including React frontend, NodeJS backend, event-driven architecture, and scalable microservice infrastructure. We produced awesome animated widgets of sports visualization that were the most significant visual part of the sportsbook.
 
 ## Software Developer at Softserve
 
@@ -230,7 +217,7 @@ _2011-2015_
 - HTML
 - CSS
 
-I joined the company as a middle JavaScript developer with pre-intermediate English. Within a year, I grew up to an upper-intermediate level and passed courses and certifications. I left the company as a tech lead in three years.
+I joined the company as a middle JavaScript developer with pre-intermediate English. I grew up to an upper-intermediate level within a year and passed courses and certifications. I left the company as a tech lead in three years.
 
 ## CTO and Co-founder at a startup in tourism
 
@@ -244,7 +231,7 @@ _2006-2014_
 - CSS
 - SEO
 
-My first project was a startup in tourism. I was a co-founder and CTO. We created a web application for booking tours and excursions. I was responsible for the whole technical part, including the architecture, development, and deployment. I was also involved in the business part, including marketing, sales, and customer support.
+My first project was a startup in tourism. I was a co-founder and CTO. We created a web application for booking tours and excursions. I was responsible for the whole technical part, including the architecture, development, and deployment. I was also involved in business, including marketing, sales, and customer support.
 
 # Education & Certifications
 
