@@ -3,7 +3,9 @@ _Curriculum vitae_
 ### Software Architect
 
 Tel: +380503480098
+
 E-mail: <o@zelen.uk>
+
 Website: <https://zelen.uk/>
 
 ## Career Objective
