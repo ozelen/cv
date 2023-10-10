@@ -3,9 +3,7 @@ _Curriculum vitae_
 ### Software Architect
 
 Tel: +380503480098
-
 E-mail: <o@zelen.uk>
-
 Website: <https://zelen.uk/>
 
 ## Career Objective
@@ -92,23 +90,15 @@ My approach is pragmatic and based on the best practices of the industry. I foll
 - Ruby on Rails
 
 My primary development and prototyping tool is TypeScript and JavaScript; however, as an Architect, I led many projects with various technologies: PHP, .NET, Java, Ruby, and Python.
-
-### Frameworks
-
-I love using NestJS for API development and prototyping. I am influenced by Ruby on Rails and the Ruby community. I prefer React, Redux, and Apollo for the frontend.
-
-### Databases
-
-Each time is different, lately, and most often, I use PostgreSQL on RDS/Aurora, MSSQL, DynamoDB, Redis, and Mongo. I have some experience and a bright impression of Neo4J.
-
-### Operating Systems
-
-I use MacOS on laptops and Linux on servers.
-
 ### Platforms
 
-AWS – most of the time, Azure, and GCP – occasionally.
+- AWS
+- Azure
+- Google Cloud
+- Digital Ocean
+- Heroku
 
+As a Software Architect, I've worked with various platforms, including AWS, Azure, and Google Cloud. I'm also familiar with Azure, Heroku, Digital Ocean, and other cloud providers.
 # Job experience
 
 ## Director of Architecture at CreatorIQ
