@@ -7,7 +7,7 @@ E-mail: <o@zelen.uk>
 Website: <https://zelen.uk/>
 
 ### Summary of Qualifications
-I am a seasoned software and enterprise architect with over 15 years of experience in full-stack development, software architecture, and agile methodologies. Throughout my career, I’ve led teams in designing and implementing scalable, high-performance systems across various domains, including SaaS and enterprise solutions. My expertise spans front-end, back-end, and edge technologies, focusing on cloud services, microservices architecture, and enterprise-level integration.
+I am a seasoned software architect with over 15 years of experience in full-stack development, software architecture, and agile methodologies. Throughout my career, I’ve led teams in designing and implementing scalable, high-performance systems across various domains, including SaaS and enterprise solutions. My expertise spans front-end, back-end, and edge technologies, focusing on cloud services, microservices architecture, and enterprise-level integration.
 
 I’m particularly passionate about exploring new technologies. Currently, I’m diving into integrating neural networks, computer vision, and large language models (LLMs), applying these innovations to enhance intelligent systems and push the boundaries of what’s possible. I take a pragmatic approach to problem-solving, ensuring that solutions meet technical requirements and deliver real value to businesses and users.
 
